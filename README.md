@@ -1,6 +1,12 @@
-# data_access_examples
-A place to update, snippets and hopefully ipython notebooks with query examples
+# DESDM Data Access Examples
 
-This repo is for adding working examples of queries and also ipython/jupyter notebooks 
-with useufl information regarding the DB and how to access among others, folders by topics might be 
-better for easy search
+A place to collect code snippets and ipython notebooks with examples for accesssing DES data. Working examples of queries and ipython/jupyter notebooks are preferred. Eventually some organization with notebooks organized by topic would be easier to search.
+
+## Contents
+
+### Notebooks
+
+* [General introduction to ```easyaccess``` python API](notebooks/easyaccess_api_y1a1_basics.ipynb)
+* [Tutorial for creating DB tables](notebooks/table_creation.ipynb)
+
+### Scripts
