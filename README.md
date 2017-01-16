@@ -14,5 +14,6 @@ A place to collect code snippets and ipython notebooks with examples for accesss
 * [Demo on current working progress on integrated tools](notebooks/Demo_tools.ipynb)
 * [Y3A1 Quick Test](notebooks/Y3A1+Test.ipynb)
 * [Simple notebook to draw tiles and footprint](notebooks/footprint.ipynb)
+* [Simple notebook on Healpix table and indices](notebooks/healpy.ipynb)
 
 ### Scripts
