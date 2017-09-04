@@ -15,5 +15,7 @@ A place to collect code snippets and ipython notebooks with examples for accesss
 * [Y3A1 Quick Test](notebooks/Y3A1+Test.ipynb)
 * [Simple notebook to draw tiles and footprint](notebooks/footprint.ipynb)
 * [Simple notebook on Healpix table and indices](notebooks/healpy.ipynb)
+* [Simple notebook for spatial index testing](notebooks/Spatial_test.ipynb)
 
 ### Scripts
+
